@@ -67,7 +67,9 @@ body {
   font-size: 1.55em; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1em; 
+  position: absolute;
+  bottom: 0px}
 
 .reveal h1 {
   text-shadow: none; }
